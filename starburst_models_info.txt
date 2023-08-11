@@ -1,0 +1,151 @@
+
+Topic:  Stellar continua
+Z => metallicity  (0.04, 0.02, 0.008, 0.004, 0.001)
+
+solar metallicity = 0.012
+
+
+stellar + nebular emission
+instantaneous
+Z = 0.008
+
+Fig. 1
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 Msun
+IMF: alpha = 2.35
+Mup = 100 Msun, Mlow = 1 Msun
+Nebular emission included
+
+
+Fig. 3
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 M
+IMF:  = 3.30
+Mup = 100 M, Mlow = 1 M
+Nebular emission included
+
+
+Fig. 5
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 M
+IMF:  = 2.35
+Mup = 30 M, Mlow = 1 M
+Nebular emission included
+
+
+
+stellar emission
+instantaneous
+Z = 0.008
+
+
+Fig. 7
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 M
+IMF:  = 2.35
+Mup = 100 M, Mlow = 1 M
+Nebular emission not included
+
+
+Fig. 9
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 M
+IMF:  = 3.30
+Mup = 100 M, Mlow = 1 M
+Nebular emission not included
+
+
+Fig. 11
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: instantaneous.
+M = 106 M
+IMF:  = 2.35
+Mup = 30 M, Mlow = 1 M
+Nebular emission not included
+
+
+
+stellar + nebular emission
+continuous
+Z = 0.008
+
+
+Fig. 2
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 2.35
+Mup = 100 M, Mlow = 1 M
+Nebular emission included
+
+
+Fig. 4
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 3.30
+Mup = 100 M, Mlow = 1 M
+Nebular emission included
+
+
+Fig. 6
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 2.35
+Mup = 30 M, Mlow = 1 M
+Nebular emission included
+
+
+
+stellar emission
+continuous
+Z = 0.008
+
+
+Fig. 8
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 2.35
+Mup = 100 M, Mlow = 1 M
+Nebular emission not included
+
+
+Fig. 10
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 3.30
+Mup = 100 M, Mlow = 1 M
+Nebular emission not included
+
+
+Fig. 12
+Spectral energy distributions from 100 Å to 1 µ between 1 Myr and 1 Gyr.
+
+Star-formation law: continuous.
+Star formation rate = 1 M yr-1
+IMF:  = 2.35
+Mup = 30 M, Mlow = 1 M
+Nebular emission not included
+
+
+
+
