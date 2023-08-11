@@ -22,7 +22,7 @@ There are 6 models each for continuous and instantantaneous star formation in th
 
 ### Codes
 
-- `10Myr_simulated_photometry.ipynb`  A basic script that computes the (simulated) UV photomtery, in units of flux and AB mags, at a chosen stellar age of 10 Myr. This is done iteratively for all target galaxies, considering each of the 12 starburst models.
-- `SFR_Mburst_AllEpochs.ipynb`  
+- `10myr_Epoch.ipynb`  A basic script that computes the (simulated) UV photomtery, in units of flux and AB mags, at a chosen stellar age of 10 Myr. This is done iteratively for all target galaxies, considering each of the 12 starburst models.
+- `SFR_Mburst_AllEpochs.ipynb` Automated computation of SFRs and M<sub>burst</sub> values for each galaxy in each model scenario. Observed flux from HST observations is used to scale the model-produced fluxes at all  stellar ages
 - `SFR+IonizingPhotons_3Models_3Epochs.ipynb`
 - 'plotting'
