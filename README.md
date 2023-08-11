@@ -23,6 +23,7 @@ Also used in this analysis is the Starburst99 "far-UV properties" model, i.e. th
 
 ### Codes
 
+- `Observed_SFR_calc` |  Script to calculate SFRs from various indicators (UV, Halpha, far-IR, etc.) using observed flux from target sources in these bands. 
 - `10myr_Epoch.ipynb` |  A basic script that computes the (simulated) UV photomtery, in units of flux and AB mags, at a chosen stellar age of 10 Myr. This is done iteratively for all target galaxies, considering each of the 12 starburst models.
 - `SFR_Mburst_AllEpochs.ipynb` | Automated computation of "expected" SFRs and M<sub>burst</sub> values for all targets in each model scenario. Observed flux from HST observations is used to scale the model-produced fluxes. This can be used to check for "best fit" models by comparing with observed SFRs.
 - `SFR+IonizingPhotons_3Models_3Epochs.ipynb` | This script includes the calculation of ionizing photons from the hot, massive stars, along with SFRs and starburst masses (continuous and instantaneous burst cases) at the young ages of 1 Myr, 10 Myr and 100 Myr. This is done with only those models that include nebular continuum with stellar UV emission. 
