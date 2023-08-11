@@ -17,7 +17,7 @@ The code and results in this repository were produced from the analysis of HST/U
 
 The target sample consists of 6 radio galaxies, with their redshifts, luminosity distances and HST imaging filters required as input. HST imaging for this sample was obtained with WFC3/UVIS in Cycle 25 GO program 15245 (PI: C. O’Dea).  
 
-There are 6 models each for continuous and instantantaneous star formation in the original 1999 dataset hosted [here](https://www.stsci.edu/science/starburst99/docs/table-index.html). See starburst_models_info.txt for details. Each Starburst99 model (example_model.txt) is a set of spectral energy distributions, associated with 36 epochs between the stellar ages of 1 Myr to 1 Gyr, on a wavelength range of 10 to 1000 nm. 
+There are 6 models each for continuous and instantantaneous star formation in the original 1999 dataset (hosted [here](https://www.stsci.edu/science/starburst99/docs/table-index.html)). See starburst_models_info.txt for details. Each Starburst99 model (example_model.txt) is a set of spectral energy distributions, associated with 36 epochs between the stellar ages of 1 Myr to 1 Gyr, on a wavelength range of 10 to 1000 nm. 
 
 Also used in this analysis is the Starburst99 "far-UV properties" model, i.e. the number of (ionizing) photons produced with wavelength below 912 Å vs. time, for continuous and single-burst star formation.
 
