@@ -7,3 +7,6 @@ Ingredients:
 - Astropy [synphot](https://synphot.readthedocs.io/en/latest) package
 
 These “artificial” fluxes synthesized from starburst models can then be directly compared with the extinction-corrected observed photometry, to estimate star formation parameters- rates of star formation (SFRs) in case of continuous starbursts or initial starburst masses (M<sub>burst</sub>) in the instantaneous burst scenario.
+
+
+The code and results in this repository were produced from the analysis of HST/UV imaging of 6 radio galaxies, a part of a study newly submitted for publication in ApJ. 
