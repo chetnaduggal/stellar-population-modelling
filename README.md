@@ -11,15 +11,18 @@ These artificial fluxes synthesized from starburst models can then be directly c
 
 The code and results in this repository were produced from the analysis of HST/UV imaging of 6 radio galaxies, a part of a study recently submitted for publication in ApJ. 
 
+
+
 ### Data
 
+The target sample consists of 6 radio galaxies, with their redshifts, luminosity distances and HST imaging filters required as input.
 
-Each Starburst99 model (see sample_model.txt) is a set of 36 spectral energy distributions between the stellar ages of 1 Myr to 1 Gyr, with a wavelength range of 10 to 1000 nm. 
+There are 6 models each for continuous and instantantaneous star formation in the original 1999 dataset. See starburst_models_info.txt for details. Each Starburst99 model (example_model.txt) is a set of spectral energy distributions, associated with 36 epochs between the stellar ages of 1 Myr to 1 Gyr, on a wavelength range of 10 to 1000 nm. 
 
 
 ### Codes
 
-- `10Myr_simulated_photometry.ipynb`  A basic script that computes the (simulated) UV photomtery, in units of flux and AB mags, at a chosen stellar age of 10 Myr. This is done iteratively for all target galaxies, condidering each of the 12 starburst models. 
-- `SFR_Mburst_AllEpochs.ipynb` 
+- `10Myr_simulated_photometry.ipynb`  A basic script that computes the (simulated) UV photomtery, in units of flux and AB mags, at a chosen stellar age of 10 Myr. This is done iteratively for all target galaxies, considering each of the 12 starburst models.
+- `SFR_Mburst_AllEpochs.ipynb`  
 - `SFR+IonizingPhotons_3Models_3Epochs.ipynb`
 - 'plotting'
