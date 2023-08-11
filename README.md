@@ -6,4 +6,4 @@ Ingredients:
 - Evolutionary [models](https://www.stsci.edu/science/starburst99/docs/table-index.html) from the stellar population synthesis code [Starburst99](https://www.stsci.edu/science/starburst99/docs/default.htm) 
 - Astropy [synphot](https://synphot.readthedocs.io/en/latest) package
 
-These “artificial” fluxes synthesized from starburst models can then be directly compared with the extinction-corrected observed photometry, to estimate star formation parameters- rates of star formation (SFRs) in case of continuous starbursts or initial starburst masses in the instantaneous burst scenario).
+These “artificial” fluxes synthesized from starburst models can then be directly compared with the extinction-corrected observed photometry, to estimate star formation parameters- rates of star formation (SFRs) in case of continuous starbursts or initial starburst masses (M<sub>burst</sub>) in the instantaneous burst scenario.
