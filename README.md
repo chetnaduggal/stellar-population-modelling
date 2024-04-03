@@ -9,7 +9,7 @@ Ingredients:
 These artificial fluxes synthesized from starburst models can then be directly compared with the extinction-corrected observed photometry, to estimate star formation parameters- rates of star formation (SFRs) in case of continuous starbursts or initial starburst masses (M<sub>burst</sub>) in the instantaneous burst scenario.
 
 
-The code and results in this repository were produced from the analysis of HST/UV imaging of 6 radio galaxies, a part of a study [newly published in ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad2513). 
+The code and results in this repository were produced from the analysis of HST/UV imaging of 6 radio galaxies, a part of a study newly published in ApJ, [Duggal et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad2513). 
 
 ----------------------------
 
